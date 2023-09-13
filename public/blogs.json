@@ -4,24 +4,24 @@
       "cover": "https://i.ibb.co/vx7bJf5/flat-lay-notepad-laptop-stationery-blue-background.jpg",
       "title": "The Mystery of Enigma",
       "author": "Jane Doe",
-      "author_image": "https://i.ibb.co/LzM3GLR/duck.jpg",
+      "author_image": "https://i.ibb.co/n8z9fvL/loudegg.jpg",
       "posted_date": "2023-09-12",
       "reading_time": "45",
       "hashtags": ["mystery", "thriller", "enigma"]
     },
     {
       "id": "2",
-      "cover": "https://i.ibb.co/zJPF0sk/top-view-workspace-with-laptop-notebook.jpg",
+      "cover": "https://i.ibb.co/vx7bJf5/flat-lay-notepad-laptop-stationery-blue-background.jpg",
       "title": "Lost in the Cosmos",
       "author": "John Smith",
-      "author_image": "https://i.ibb.co/4Vs54Py/jeery.png",
+      "author_image": "https://i.ibb.co/n8z9fvL/loudegg.jpg",
       "posted_date": "2023-09-10",
       "reading_time": "30",
       "hashtags": ["science fiction", "cosmos", "adventure"]
     },
     {
       "id": "3",
-      "cover": "https://i.ibb.co/tZ8dp3D/blog-cover-1.jpg",
+      "cover": "https://i.ibb.co/vx7bJf5/flat-lay-notepad-laptop-stationery-blue-background.jpg",
       "title": "Cooking Delights",
       "author": "Emily Wilson",
       "author_image": "https://i.ibb.co/n8z9fvL/loudegg.jpg",
@@ -31,20 +31,20 @@
     },
     {
       "id": "4",
-      "cover": "https://i.ibb.co/VQhZTq2/laptop.jpg",
+      "cover": "https://i.ibb.co/vx7bJf5/flat-lay-notepad-laptop-stationery-blue-background.jpg",
       "title": "Tech Trends 2023",
       "author": "David Brown",
-      "author_image": "https://i.ibb.co/KxBcG05/miki.jpg",
+      "author_image": "https://i.ibb.co/n8z9fvL/loudegg.jpg",
       "posted_date": "2023-09-06",
       "reading_time": "20",
       "hashtags": ["technology", "trends", "innovation"]
     },
     {
       "id": "5",
-      "cover": "https://example.com/book5_cover.jpg",
+      "cover": "https://i.ibb.co/vx7bJf5/flat-lay-notepad-laptop-stationery-blue-background.jpg",
       "title": "Traveler's Diary",
       "author": "Sarah Johnson",
-      "author_image": "https://i.ibb.co/RpqnmFG/girl.png",
+      "author_image": "https://i.ibb.co/n8z9fvL/loudegg.jpg",
       "posted_date": "2023-09-04",
       "reading_time": "50",
       "hashtags": ["travel", "diary", "adventure"]
